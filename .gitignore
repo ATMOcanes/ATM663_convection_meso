@@ -103,5 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# Mac stuff 
+# Mac stuff
 .DS_store
+
+# Image frames
+*.png
